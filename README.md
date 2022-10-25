@@ -1,5 +1,5 @@
 # Manhunt2.PluginMH2
-解锁侠盗猎魔手2 60帧，360°视角，gun处决
+解锁侠盗猎魔手2 60帧，视角，gun处决
 
 # 使用方法
 从[Releases](https://github.com/ermaccer/Manhunt2.PluginMH2/releases)下载PluginMH2.zip，解压缩到游戏根目录，覆盖，打开游戏即可。
