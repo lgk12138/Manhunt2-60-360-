@@ -1,13 +1,12 @@
 # Manhunt2.PluginMH2
-Firearms execution restoration, 60 fps patch and more!
+解锁侠盗猎魔手2 60帧，360°视角，gun处决
 
-# Installation
-You can download binary files from [Releases](https://github.com/ermaccer/Manhunt2.PluginMH2/releases) page. 
-Extract **PluginMH2.zip** to root folder of Manhunt 2.
+# 使用方法
+从[Releases](https://github.com/ermaccer/Manhunt2.PluginMH2/releases)下载PluginMH2.zip，解压缩到游戏根目录，覆盖，打开游戏即可。
 
-# Features
+# 插件功能
 
-| Feature | Description | 
+| 功能 | 描述 | 
 |     ---      |   ---        | 
 | 60 FPS Patch |  Removes 30 fps cap. | 
 | Clean Headshots | Changes headshot behaviour to be more like the first Manhunt, long distance headshots can be performed and heads won't explode unless the weapon is any shotgun or sniper rifle. | 
@@ -16,14 +15,14 @@ Extract **PluginMH2.zip** to root folder of Manhunt 2.
 | First Person Mode | Allows to play the game in first person perspective. | 
 | Misc. | PluginMH2 also adds several other options, this includes an option to disable camera shake, restore rats (cockroaches) and skip legal screen. FOV (field of view) can be changed too. |
 
-### First Person Mode
+### 第一视角预览
 
 Allows to play the game in first person perspective.
 ![](https://i.imgur.com/1Pr2bcJ.png)
 ![](https://i.imgur.com/ppXmmsS.png)
 ![](https://i.imgur.com/YsirzO9.jpg)
 
-## Usage
+## 详细使用方法
 Enable it in .ini first (**bEnableFirstPersonMode**), then while in game press the lookaround/first person mode key (**T** is the default key).
 
 Due to how MH2 works, either a static like camera (which has no Y axis movement and restricts mouse) or 360 camera can be used at a time. To
